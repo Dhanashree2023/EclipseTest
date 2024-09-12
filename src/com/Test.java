@@ -8,6 +8,9 @@ public class Test {
 		
 		
 		System.out.println("NEW CODE");
+		
+		
+		System.out.println("TC 4");
 	}
 
 }
