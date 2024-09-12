@@ -5,6 +5,9 @@ public class Test {
 		
 		String s = "Java";
 		System.out.println("String is = "+s);
+		
+		
+		System.out.println("NEW CODE");
 	}
 
 }
